@@ -16,7 +16,7 @@ class ThingsResource:
         resp.body = ('\nThis is the text that is returned '
                      'from the get method.\n'
                      '\n'
-                     '    ~ The API\n\n')
+                     '    ~ The API on OpenShift\n\n')
 
 
 # falcon.App instances are callable WSGI apps
